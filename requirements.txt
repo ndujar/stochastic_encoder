@@ -1,0 +1,13 @@
+requests==2.23.0
+scikit-learn==0.21.3
+catboost==0.22
+click==7.0
+numpy==1.16.2
+pandas==0.24.2
+scikit-image==0.16.2
+py-spy==0.1.11
+memory-profiler==0.55.0
+line_profiler==2.1.2
+flask==1.1.1
+flask-restful==0.3.7
+opencv-contrib-python==4.2.0.34
