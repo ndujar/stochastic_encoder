@@ -8,6 +8,6 @@ scikit-image==0.16.2
 py-spy==0.1.11
 memory-profiler==0.55.0
 line_profiler==2.1.2
-flask==1.1.1
+flask==2.3.2
 flask-restful==0.3.7
 opencv-contrib-python==4.2.0.34
