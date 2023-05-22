@@ -1,4 +1,4 @@
-requests==2.23.0
+requests==2.31.0
 scikit-learn==0.21.3
 catboost==0.22
 click==7.0
